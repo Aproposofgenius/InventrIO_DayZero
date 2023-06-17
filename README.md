@@ -1,5 +1,5 @@
 # InventrIO_DayZero
-Compilation of the code from the lessons and some of my experiments based off of that
+Compilation of the code from the lessons and some of my experiments based off of that, check out the course: https://inventr.io/courses/adventure-kit-2-day-0/
 
 Some general notes on the pins for the MEGA 2560
  * Skip: A0-A15 (save for Analog),
